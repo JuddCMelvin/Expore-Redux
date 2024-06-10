@@ -14,6 +14,7 @@ function Counter() {
 
     return (
         <div>
+            <h1>Counter</h1>
             <h1>{count}</h1>
             <button
                 aria-label="Increment value"
